@@ -250,6 +250,18 @@ a:focus {
     3D positioning along Z axis.
 */
 
+.title {
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+
+.alignCenter {
+    text-align: center;
+}
+
 #title {
     padding: 0;
 }
