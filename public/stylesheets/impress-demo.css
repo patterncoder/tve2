@@ -349,7 +349,81 @@ a:focus {
     
 }
 
+#step4 h2{
+    margin-bottom: 20px;
+    font-size: 1.25em;
+}
+#step4 h1{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 50px;
+}
 
+#step4 ul {
+    list-style-type: circle
+}
+
+#step4 ul li {
+    margin-left: 45px
+    
+}
+
+#step5 h2{
+    margin-bottom: 20px;
+    font-size: 1.25em;
+}
+#step5 h1{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 50px;
+}
+
+#step5 ul {
+    list-style-type: circle
+}
+
+#step5 ul li {
+    margin-left: 45px
+    
+}
+
+#step6 h2{
+    margin-bottom: 20px;
+    font-size: 1.25em;
+}
+#step6 h1{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 50px;
+}
+
+#step6 ul {
+    list-style-type: circle
+}
+
+#step6 ul li {
+    margin-left: 45px
+    
+}
+
+#step7 h2{
+    margin-bottom: 20px;
+    font-size: 1.25em;
+}
+#step7 h1{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 50px;
+}
+
+#step7 ul {
+    list-style-type: circle
+}
+
+#step7 ul li {
+    margin-left: 45px
+    
+}
 /*
     Second step is nothing special, just a text with a link, so it doesn't need
     any special styling.
