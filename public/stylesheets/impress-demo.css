@@ -234,6 +234,23 @@ a:focus {
 
     margin-top: 100px;
 }
+.slide h2{
+    margin-bottom: 20px;
+    font-size: 1.25em;
+}
+.slide h1{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 50px;
+}
+
+.slide ul {
+    list-style-type: circle
+}
+
+.slide ul li {
+    margin-left: 45px
+}
 
 .slide q strong {
     white-space: nowrap;
@@ -292,6 +309,46 @@ a:focus {
 #title .footnote {
     font-size: 32px;
 }
+
+
+#step2 h2{
+    margin-bottom: 20px;
+    font-size: 1.25em;
+}
+#step2 h1{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 50px;
+}
+
+#step2 ul {
+    list-style-type: circle
+}
+
+#step2 ul li {
+    margin-left: 45px;
+    font-size: .75em;
+}
+
+#step3 h2{
+    margin-bottom: 20px;
+    font-size: 1.25em;
+}
+#step3 h1{
+    font-size: 2em;
+    margin-bottom: 30px;
+    line-height: 50px;
+}
+
+#step3 ul {
+    list-style-type: circle
+}
+
+#step3 ul li {
+    margin-left: 45px
+    
+}
+
 
 /*
     Second step is nothing special, just a text with a link, so it doesn't need
